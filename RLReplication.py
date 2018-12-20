@@ -1,5 +1,3 @@
-#RL Replication 1.0, Phanish Puranam May 2018
-#Python 2.7 Code for Replication Exercise for Reinforcement Learning 
 
 #IMPORTING MODULES
 import math
