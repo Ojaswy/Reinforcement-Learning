@@ -1,8 +1,10 @@
 # Building a reinforcement learning model for Checkers
 
 Implemention:
-Linux:
+
+# Linux:
 ./test.sh
-Mac:
+
+# Mac:
 ./for_mac
 
