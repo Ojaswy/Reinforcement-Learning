@@ -1,6 +1,6 @@
 # Building a reinforcement learning model for the classic tic-tac-toe!
 
-# Implementation:
+Implementation:
 
 a) Open Terminal
 
