@@ -11,7 +11,7 @@ a) Train:
 ![](https://github.com/Ojaswy/Reinforcement-Learning/blob/master/Tic-Tac-Toe/XO%20train.png)
 
 b) Game:
-
+ 
 ![](https://github.com/Ojaswy/Reinforcement-Learning/blob/master/Tic-Tac-Toe/XO%20play.png)
  
 
